@@ -1,5 +1,4 @@
 ## Eae! Daniel Matias da Silva aqui! Estou estudando bastante ainda!
-![Code Monkey](https://raw.githubusercontent.com/tylfin/tylfin/main/img/code-monkey.gif)
 <div align="center">
   <a href="https://github.com/Danielmshead">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielmshead&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,4 +24,5 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+![Code Monkey](https://raw.githubusercontent.com/tylfin/tylfin/main/img/code-monkey.gif)
   
