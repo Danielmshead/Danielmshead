@@ -19,7 +19,11 @@
   <a href="https://instagram.com/danielmsilva.dps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/wowheadie" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-matias-da-silva-04810324/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  <a href="https://raw.githubusercontent.com/tylfin/tylfin/main/img/code-monkey.gif"></a>
  
 </div>
+<div>   
+  <a href="https://raw.githubusercontent.com/tylfin/tylfin/main/img/code-monkey.gif"></a>
+</div> 
