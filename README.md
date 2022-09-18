@@ -22,7 +22,9 @@
   
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Code Monkey](https://raw.githubusercontent.com/tylfin/tylfin/main/img/code-monkey.gif)
  
 </div>
-![Code Monkey](https://raw.githubusercontent.com/tylfin/tylfin/main/img/code-monkey.gif)
+
   
