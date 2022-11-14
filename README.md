@@ -1,12 +1,21 @@
 ## Olá! Daniel Matias da Silva aqui!
 ![Code Monkey](https://raw.githubusercontent.com/tylfin/tylfin/main/img/code-monkey.gif)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Head-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Head-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Head-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Head-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+## 🛠 &nbsp;Tech Stack
+
+### 👩‍💻 &nbsp;Back-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![c-sharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
+
+### 🎨 &nbsp;Front-end
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
+
+### ⚡ &nbsp;Database 
+![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
   
   ##
  
