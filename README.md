@@ -1,5 +1,4 @@
 ## Olá! Daniel Matias da Silva aqui!
-![Code Monkey](https://raw.githubusercontent.com/tylfin/tylfin/main/img/code-monkey.gif)
 
 ## 🛠 &nbsp;Tech Stack
 
